@@ -1,4 +1,7 @@
 const initBg = (autoplay = true) => {
+
+
+    
     const bgImgsNames = ['conservatorio.jpg', 'maria2.jpeg', 'maria.jpeg'];
     const bgImgs = bgImgsNames.map(img => "img/" + img);
 
